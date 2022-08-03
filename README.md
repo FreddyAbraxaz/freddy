@@ -1,4 +1,3 @@
-# freddy
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1",Gol Peru
@@ -497,6 +496,175 @@ http://magmas5.com:8000/live/malotv/gratis/132269.m3u8
 #EXTINF:-1 tvg-chno="75",Space 
 
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=pJ98W7obkQ1WQ1KvexFPeQ&expires=1659495788&ip=190.237.15.226|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A103.0)%20Gecko%2F20100101%20Firefox%2F103.0&Referer=https%3A%2F%2Flive.telelatinohd.com%2Fchannellive.php%3Fid%3D39_%23
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="76",Fox Premium
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/138_.m3u8?token=cMwiioe_h7WV4Jctui2vdA&expires=1659496457&ip=190.237.15.226|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A103.0)%20Gecko%2F20100101%20Firefox%2F103.0&Referer=https%3A%2F%2Flive.telelatinohd.com%2Fchannellive.php%3Fid%3D138_%23
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="77",Golden
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=ceuPeQSuQFZu8gmmE0qPEw&expires=1659496676&ip=190.237.15.226|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A103.0)%20Gecko%2F20100101%20Firefox%2F103.0&Referer=https%3A%2F%2Flive.telelatinohd.com%2Fchannellive.php%3Fid%3D202_%23
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="78",Axn
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=l1CLv4fneiDw1cLh9JO30g&expires=1659497051&ip=190.237.15.226|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A103.0)%20Gecko%2F20100101%20Firefox%2F103.0&Referer=https%3A%2F%2Flive.telelatinohd.com%2Fchannellive.php%3Fid%3D78_%23
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="79",Amc
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=q6HNvpHe0E1mBlzujVJ7yw&expires=1659497348&ip=190.237.15.226|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A103.0)%20Gecko%2F20100101%20Firefox%2F103.0&Referer=https%3A%2F%2Flive.telelatinohd.com%2Fchannellive.php%3Fid%3D82_%23
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="80",Golden Plus
+
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=5RY693fESCDuPonRsFC6cA&expires=1659497472&ip=190.237.15.226|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A103.0)%20Gecko%2F20100101%20Firefox%2F103.0&Referer=https%3A%2F%2Flive.telelatinohd.com%2Fchannellive.php%3Fid%3D73_%23
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="81",Golden Edge
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=ldcNcr8bX1vfQMPghqWtKQ&expires=1659497588&ip=190.237.15.226|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A103.0)%20Gecko%2F20100101%20Firefox%2F103.0&Referer=https%3A%2F%2Flive.telelatinohd.com%2Fchannellive.php%3Fid%3D74_%23
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="82",History Hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/history/output.mpd
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="83",Cinemax hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="84",Amc hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/amc/output.mpd
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="85",Sify hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/syfy/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="86",Fx hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/fx/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="87",Paramount hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/paramount/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="88",Sony hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/sony/output.mpd
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="89",Tbs hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/tbs/output.mpd
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="90",Studio Universal hd
+
+https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="91",Universal Tv
+
+
+https://ubnet.cdn.rcs.net.ar/mnp/universal/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="92",Truetv Hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/trutv/output.mpd
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="93",Cartoon Network hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/cartoon/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="94",Nick Jr. hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="95",Tooncast. hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="96",Discovery. hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/discovery/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="97",Tlc. hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="98",Discovery Turbo. hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="99",Discovery Cience. hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="100",History2. hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/h2/output.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="101",AyE. hd
+
+https://ubnet.cdn.rcs.net.ar/mnp/ae/output.mpd
+
+
+
 
 
 
